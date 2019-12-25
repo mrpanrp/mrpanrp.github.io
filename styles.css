@@ -19,3 +19,8 @@ h1 {
 .resumeBtn:hover {
     background-color: RoyalBlue;
 }
+
+img {
+    width: 200px;
+    height: 200px;
+}
