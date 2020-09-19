@@ -21,6 +21,16 @@ h1 {
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+}
+
+div.imageContainer {
+    width: 100px;
+    height: 100px;
+}
+
+.imageContainer>img:hover {
+    width: auto;
+    height: auto;
 }
