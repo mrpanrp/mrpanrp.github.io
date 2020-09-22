@@ -20,12 +20,13 @@ h1 {
     background-color: RoyalBlue;
 }
 
-img {
+
+/* img {
     width: 100px;
     height: 100px;
-}
+} */
 
-div.imageContainer {
+.imageContainer {
     width: 100px;
     height: 100px;
 }
